@@ -1,0 +1,3 @@
+[submodule "Fast-Stable-Diffusion"]
+	path = Fast-Stable-Diffusion
+	url = https://github.com/TheLastBen/PPS
